@@ -1,8 +1,8 @@
 const WebSocket = require('ws');
 
-const ACCESS_TOKEN = 'plhtnf1oo9b51pfi1jyargv62bvnko'; // Ваш токен
-const CLIENT_ID = 'gp762nuuoqcoxypju8c569th9wz7q5'; // Ваш Client ID
-const CHANNEL_ID = '423975429'; // ID вашего Twitch-канала
+const ACCESS_TOKEN = '==='; // Ваш токен
+const CLIENT_ID = '==='; // Ваш Client ID
+const CHANNEL_ID = '===='; // ID вашего Twitch-канала
 
 const WS_URL = 'wss://pubsub-edge.twitch.tv';
 
